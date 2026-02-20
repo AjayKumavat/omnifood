@@ -50,14 +50,6 @@ It delivers a **premium product-level UI experience** using only front-end techn
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="resources/img/hero.png" width="100%" alt="Omnifood Preview"/>
-</p>
-
----
-
 ## 🚀 Getting Started
 
 ```bash
