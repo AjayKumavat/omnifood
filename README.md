@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-live-demo-link.com">
+  <a href="https://ajay-kumawat-omnifood-self-six.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-View_Website-ff6b6b?style=for-the-badge" />
   </a>
   <a href="https://github.com/AjayKumavat/omnifood.git">
